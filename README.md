@@ -1,5 +1,5 @@
 # HORI Steering Controller for Unity 5  
-![screenshot](https://github.com/knou/HORISteeringController/blob/master/medias/horisteeringController.jpg)  
+<img src="https://github.com/knou/HORISteeringController/blob/master/medias/horisteeringController.jpg" width="320px">  
 <http://www.hori.jp/products/ps4/ps4_steeringwheel/>
 
 ## Setup
