@@ -1,11 +1,12 @@
-# HORI Steering Controller
-HORI Steering Controller for Unity 5  
+# HORI Steering Controller for Unity 5  
 ![screenshot](https://github.com/knou/HORISteeringController/blob/master/medias/horisteeringController.jpg)  
 <http://www.hori.jp/products/ps4/ps4_steeringwheel/>
 
 ## Setup
-![screenshot](https://github.com/knou/HORISteeringController/blob/master/medias/horisteeringController.gif)  
+```
 menu/SteeringController/EnableInput
+```
+![screenshot](https://github.com/knou/HORISteeringController/blob/master/medias/horisteeringController.gif)  
 
 ## Usage
 ```c#
